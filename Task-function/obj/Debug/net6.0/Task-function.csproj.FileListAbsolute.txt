@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar 24.06\Task-function\bin\Debug\net6.0\Task-function.exe
+C:\Users\user\Desktop\Seminar 24.06\Task-function\bin\Debug\net6.0\Task-function.deps.json
+C:\Users\user\Desktop\Seminar 24.06\Task-function\bin\Debug\net6.0\Task-function.runtimeconfig.json
+C:\Users\user\Desktop\Seminar 24.06\Task-function\bin\Debug\net6.0\Task-function.dll
+C:\Users\user\Desktop\Seminar 24.06\Task-function\bin\Debug\net6.0\Task-function.pdb
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.dll
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\refint\Task-function.dll
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.pdb
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\Task-function.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar 24.06\Task-function\obj\Debug\net6.0\ref\Task-function.dll
