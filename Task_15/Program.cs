@@ -8,8 +8,8 @@ Console.WriteLine("Введите номер дня недели:");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num > 0 && num < 8)
 {
-if ( num == 1 || num ==2 || num ==3 || num ==4 || num == 5) Console.WriteLine("Не выходной");
-else if ( num == 6 || num ==7) Console.WriteLine("Выъодной");
+if ( num == 6 || num ==7 ) Console.WriteLine("Выходной");
+else Console.WriteLine("Не выходной");
 
 
 }
