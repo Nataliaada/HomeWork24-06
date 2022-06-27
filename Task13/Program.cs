@@ -1,10 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more informatio
+﻿
+//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-int RemoveSecondDigit(int number)
+// 645 -> 5  78 -> третьей цифры нет 32679 -> 6
+
+
+Console.WriteLine("ВВедите число");
+int num = Convert.ToInt32(Console.ReadLine());
+string numtext = Convert.ToString(num);
+if (numtext.Length > 2)
 {
-    int firstDigit = number / 100;
-    int secondDigit = number % 10;
-    return firstDigit * 10 + secondDigit;
+    Console.WriteLine($"Третья цифра = " + numtext[2]);
 }
-int removeSecondDigit = RemoveSecondDigit (num);
-Console.Write(removeSecondDigit);
+else Console.WriteLine("Третья цифра отсутствует"); 
